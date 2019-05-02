@@ -32,8 +32,11 @@
 									</ul>
 								</header>
 							<!-- Banner -->
-							<section id="banner">
+							<section>
 							<div class="content">
+							  <header>
+							    <h3>Our Publications</h3>
+							  </header>
 	  								  <header>
 											<h4>September 2017 - 2018</h4>
 									  </header>
@@ -103,7 +106,6 @@
 										<li><a href="people.html">People</a></li>
 										<li><a href="publication.html">Publications</a></li>
 										<li><a href="projjob.html">Projects & jobs</a></li>
-										<li><a href="contact.html">Contact</a></li>
 										<!--<li>
 											 <span class="opener">Submenu</span>
 											<ul>
@@ -117,6 +119,8 @@
 
 							<!-- Footer -->
 								<footer id="footer">
+								   <p>Contact: Meng-Ru Wu <a href="mailto:mwu@gate.sinica.edu.tw" class="icon fa-envelope-o"> 
+								   mwu[at]gate.sinica.edu.tw </a></p>
 									<p class="copyright"> &copy; Meng-Ru Wu / ASIoP <br /> Last updated: 2019.02.01 <br /> Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 						</div>

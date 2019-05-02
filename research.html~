@@ -34,34 +34,45 @@
 							<!-- Banner -->
 							<section id="banner">
 							<div class="content">
-							<p>We are currently focusing on the following research topics:</p>
-									  <header>
-											<h4>The origin of heavy elements - r-process nucleosynthesis</h4>
-									  </header>
-									  <header>
-											<h4>Neutrino star mergers and kilonova lightcurves</h4>
-									  </header>
-									  <header>
-											<h4>Neutrino flavor oscillations in dense environments</h4>
-									  </header>
-									  <header>
-											<h4>Multi-messenger signals from core-collapse supernovae</h4>
-									  </header>
-									  <header>
-											<h4>Exploring New Physics with supernovae and mergers</h4>
-									  </header>
-										<ul class="actions">
-										<!--	<li><a href="#" class="button big">Learn More</a></li> -->
-										</ul>
-									<p>In addition, we are interested in studying:</p>
-									  <header>
-											<h4>Neutron star physics</h4>
-									  </header>
-									  <header>
-											<h4>The Big-bang nucleosynthesis and the early Universe</h4>
-									  </header>
-										</div>
-								</section>
+                     <header> 
+                     <h3>What do we do?</h3>
+                     </header>							
+							<p> Physics laws and principles dictate how the Universe evolves -- 
+							from the sub-atomic scale to the cosmological scale.
+							Physicists working at different subjects are devoted to the goal of
+							finding the most fundamental properties of matter, including what they
+							are and how they interact.<br> 
+							In our group, we seek to find answers to questions related to
+							physics at the extreme -- conditions that human beings cannot 
+							replicate within the laboratories. To this aim, we look at some of the
+							most violent astrophysical phenomena over the sky,
+							to understand how physics work therein and how they happen. 
+							</p>
+							
+							<header>
+							<h3>Questions that we are focusing to find answers now:</h3>
+							</header>
+							<ul style="list-style-type:disc">
+							 <strong>
+							  <li>How are where are the known elements made in the Universe?</li>
+                       <li>Are neutron star mergers the only source of making the 
+                       heaviest elements in the Universe?</li>
+                       <li>How do neutrinos, particles that interact feebly with matter, 
+                       behave (interact and oscillate) at
+                       dense environments, where they are trapped?</li>
+                       <li>How do various kinds of supernovae explode?</li>
+                       <li>What is the state of matter inside the most dense objects 
+                       of the Universe, the neutron stars?  </li>
+                       <li>Can we find signature of physics beyond-the-Standard-Model
+                       with messengers from the sky?</li>
+                       <li>What are the astrophysical sources of making 
+                       the most energetic particles in the Universe?</li>
+                      </strong>
+                     </ul>
+                      <p>If you are interested in any of these topics, feel free to 
+                      contact or join us!</p>                
+							</div>
+							</section>
 						</div>
 					</div>
 
@@ -82,7 +93,7 @@
 										<li><a href="people.html">People</a></li>
 										<li><a href="publication.html">Publications</a></li>
 										<li><a href="projjob.html">Projects & jobs</a></li>
-										<li><a href="contact.html">Contact</a></li>
+
 										<!--<li>
 											 <span class="opener">Submenu</span>
 											<ul>
@@ -96,6 +107,8 @@
 
 							<!-- Footer -->
 								<footer id="footer">
+								   <p>Contact: Meng-Ru Wu <a href="mailto:mwu@gate.sinica.edu.tw" class="icon fa-envelope-o"> 
+								   mwu[at]gate.sinica.edu.tw </a></p>
 									<p class="copyright"> &copy; Meng-Ru Wu / ASIoP <br /> Last updated: 2019.02.01 <br /> Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 								</footer>
 						</div>
