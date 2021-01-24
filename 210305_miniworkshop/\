@@ -8,7 +8,7 @@
 -->
 <html>
 	<head>
-		<title>Miniworkshop on Novel Experimental and Astrophysical Probes for Dark Matter</title>
+		<title>Miniworkshop on novel experimental and astrophysical probes for dark matter</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="fav icon" href="./images/favicon.ico" type="image/x-icon"/>
@@ -23,7 +23,7 @@
 				<!-- Header -->
 					<header id="header" class="alt">
 						<span class="logo"><img src="images/logo_as_t.png" alt="" width="100"/></span>
-						<h1>Miniworkshop on Novel Experimental and Astrophysical Probes for Dark Matter</h1>
+						<h1>Miniworkshop on novel experimental and astrophysical probes for dark matter</h1>
                         <p>March 05, 2021<br> 
                         Institute of Physics, Academia Sinica, Taipei, Taiwan</p>
 					</header>
@@ -33,7 +33,7 @@
 						<ul>
 							<li><a href="#purpose" class="active">Purpose</a></li>
 							<li><a href="#registration">Registration</a></li>
-<!--							<li><a href="#topics">Topics</a></li> --!>
+							<li><a href="#topics">Topics</a></li>
 							<li><a href="#venue">Venue</a></li>
 							<li><a href="#program">Program</a></li>
 <!--							<li><a href="#speakers">Speakers</a></li> --!>
@@ -51,15 +51,7 @@
 										<header class="major">
 											<h2>Purpose</h2>
 										</header>
-                                        <p>The goal of this one-day miniworkshop is to discuss recent developements on new 
-                                           ways of probing sub-GeV particle dark matter candidates.
-					   Three overview talks (one hour each) will cover astrophysical probes, 
-					   new experiments, and theory aspects for dark matter detection.
-					   There will be four talks (30 minutes each) which discuss specific topics 
-					   related to these frontiers. 
-				           Two discussion sessions will be held for brainstorming.
-					</p>
-						
+                                        <p>The goal of this mini-workshop is to discuss recent developements on novel proposals of probing particle dark matter candidates.</p>
 
 									</div>
 								</div>
@@ -77,10 +69,10 @@
                                         Registration deadline: Feburary 25, 2021 </p>
 
                                         <p>
-                                        There is no registration fee for this miniworkshop. 
+                                        There will be no registration fee for this miniworkshop. 
 					The number of particapants are limited to about 30, depending on the actual budget and space limit. 
-<!--					You are welcome to submit a talk title on registration. 
-                                        Please register as soon as possible to receive full consideration. --!>
+					You are welcome to submit a talk title on registration. 
+<!--                                        Please register as soon as possible to receive full consideration. --!>
 					</p>
 					
 <!--					<p>
@@ -97,7 +89,7 @@
 								</div>
 							</section>
 						<!-- First Section -->
-<!--							<section id="topics" class="main">
+							<section id="topics" class="main">
 								<header class="major">
 									<h2>Topics</h2>
 								</header>
@@ -108,14 +100,14 @@
                                 </ul>
 
 							</section>
---!>
+
 						<!-- Second Section -->
 							<section id="venue" class="main">
 								<header class="major">
 									<h2>Venue</h2>
 								</header>
                                 <p> Meeting location: <a href="https://goo.gl/maps/ppuMkMbnQEy" target="_blank"> 
-                                    1st Meeting Room in 5F, Institute of Physics, Academia Sinica
+                                    Rm. P7F, Institute of Physics, Academia Sinica
                                     No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City</a></p>
 <!--                                <p> Accommodation:
 				    <a href="https://goo.gl/maps/2U2f4iTz31x" target="_blank"> 
@@ -149,78 +141,57 @@
                                             </tr>
                                             <tr>
                                                 <td>9:00 - 10:00</td>
-                                                <td>Hai-Bo Yu (UC Riverside) (tbc)</td>
+                                                <td>Hai-Bo Yu (UC Riverside), tbc</td>
  						<td>TBD</td>
 					
                                             </tr>
                                             <tr>
                                                 <td>10:00 - 10:30</td>
-                                                <td>Yen-Hsun Lin (ASIoP)</td>
- 						<td>TBD</td>
+                                                <td>Yen-Hsun Lin (ASIoP), tbc</td>
                                             </tr>
                                             <tr>
                                                 <td>10:30 - 11:00</td>
                                                 <td>Coffee Break</td>
- 						<td>TBD</td>
-
                                             </tr>
 
                                             <tr>
                                                 <td>11:00 - 12:00</td>
                                                 <td>Yen-Yung Chang (xxx), tbc</td>
- 						<td>TBD</td>
-
                                             </tr>
                                             <tr>
                                                 <td>12:00 - 12:30</td>
                                                 <td>Discussions</td>
- 						<td></td>
-
                                             </tr>
                                             <tr>
                                                 <td>12:30 - 13:30</td>
                                                 <td>Lunch break</td>
- 						<td></td>
-
                                             </tr>
 
                                             <tr>
                                                 <td>13:30 - 14:30</td>
                                                 <td>Cheng-Pang Liu (NDHU) </td>
- 						<td>TBD</td>
-
                                             </tr>
                                             <tr>
                                                 <td>14:30 - 15:00</td>
-                                                <td>Mukash Pandey (NTU) (tbc)</td>
- 						<td>TBD</td>
-
+                                                <td>Mukash Pandey (NTU)</td>
                                             </tr>
 
                                             <tr>
                                                 <td>15:00 - 15:30</td>
                                                 <td>Coffee break</td>
- 						<td></td>
-
                                             </tr>
                                             <tr>
                                                 <td>15:30 - 16:00</td>
                                                 <td>xxx (tbc)</td>
- 						<td>TBD</td>
-
                                             </tr>
                                             <tr>
                                                 <td>16:00 - 16:30</td>
-                                                <td>Alessandro Parisi (TKU) (tbc)</td>
- 						<td>TBD</td>
-
+                                                <td>Alessandro Parisi (TKU)</td>
                                             </tr>
 
                                             <tr>
                                                 <td>16:30 - </td>
                                                 <td>Discussions</td>
- 						<td></td>
-
                                             </tr>
 
 <!--                                            <tr>
@@ -313,7 +284,7 @@
 								<dd><a href="mailto:yenhsun [at] gate.sinica.edu.tw">yenhsun [at] gate.sinica.edu.tw</a></dd>
 							</dl>
 						</section>
-<!--                        <a href="" class="image center"><img src="images/support.png" alt="" height="110"/></a>  --!>
+                        <a href="" class="image center"><img src="images/support.png" alt="" height="110"/></a>
                         <p class="copyright">&copy; Academia Sinica. Design: <a href="https://html5up.net">HTML5 UP</a>.
 <!--                        <br>Last Update: 2019.01.05.</p> !-->
 					</footer>
